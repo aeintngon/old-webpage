@@ -7,3 +7,7 @@ author :
   github : aeintngon
   twitter : aeintthetngon
   feedburner : nil
+
+markdown: kramdown
+JB :
+  version : 0.3.0
