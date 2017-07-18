@@ -1,17 +1,18 @@
 body {
-	background-color: #efefef;
-	padding: 16px;
+	background-color: #d7cec7;
+	padding: 30px;
 }
 
 h1 {
 	font-size: 36px;
 	font-weight:bold;
-	color:#CAEBF2;
+	color:#565656;
 }
 
-.fa-twitter, .fa-envelope-o, .fa-linkedin, .fa-github{
-	font-size:18px;
-	color:#CAEBF2;
+h2 {
+	font-sie: 24px;
+	font-weight: bold;
+	color: #76323F;	
 }
 
 .post-content {
@@ -19,7 +20,7 @@ h1 {
 }
 
 .post-date{
-	color:#a9a9a9;
+	color:#FFFFFF;
 }
 
 ul {
@@ -45,7 +46,7 @@ li:before {
 
 .footer {
 	text-align: center;
-	background: #a9a9a9;
+	background: #c09F80;
 	padding: 3px 0;
 	margin-top: 0px;
 }
