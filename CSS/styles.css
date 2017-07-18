@@ -14,9 +14,14 @@ li:before {
     color: blue; /* Or a color you prefer */
 }
 
+.content {
+	text-align:left;
+	padding:10px 5px 0 5px;
+}
+
 .footer {
 	text-align: center;
-	background: #17CDE1;
+	background: #C0F6FC;
 	padding: 3px 0;
 	margin-top: 0px;
 }
@@ -44,4 +49,8 @@ li:before {
 
 #pdf {
 	color: #A735FD
+}
+
+#github {
+	color: #000000
 }
