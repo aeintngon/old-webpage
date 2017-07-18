@@ -1,18 +1,7 @@
-theme: jekyll-theme-dinky
-
 # Site settings
 title: data science projects
 subtitle: Data Science Blog
 email: aeint.ngon@gmail.com
-description: "Showcasing some personal projects"
+description: "Showcasing some personal projects of Aeint Thet Ngon"
 baseurl: ""
-url: "https://aeintngon.github.io"
-twitter_username: aeintthetngon
-github_username:  aeintngon
-
-# Build settings
 markdown: kramdown
-highlighter: rouge
-permalink: pretty
-paginate: 5
-exclude: ["node_modules"]
