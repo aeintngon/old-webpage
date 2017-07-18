@@ -38,7 +38,7 @@ a:hover {
 	margin: 0;
 }
 
-.main-list {
+ul {
     list-style: none;
     margin: 0;
     padding: 0;
@@ -46,11 +46,11 @@ a:hover {
     background-color: #C4BFC0;
 }
 
-.main-list li {
+li {
     float: left;
 }
 
-.main-list li a {
+li a {
     display: block;
     font-weight: bold;
     color: white;
@@ -59,18 +59,8 @@ a:hover {
     text-decoration: none;
 }
 
-.main-list li a:hover {
+li a:hover {
     background-color: #76323F;
-}
-
-ul {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-}
-
-* {
-    box-sizing: border-box;
 }
 
 .content {
