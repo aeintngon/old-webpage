@@ -78,6 +78,7 @@ a:hover {
 .footer-nav {
     display: flex;
     justify-content: center;
+    list-type:none;
 }
 
 #gmail {
