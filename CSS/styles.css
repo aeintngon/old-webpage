@@ -72,9 +72,10 @@ ul {
 * {
     box-sizing: border-box;
 }
+
 .content {
 	text-align:left;
-	padding:10px 5px 0 5px;
+	padding:70px;
 }
 
 .footer {
@@ -87,7 +88,6 @@ ul {
 .footer-nav {
     display: flex;
     justify-content: center;
-    list-type:none;
 }
 
 #gmail {
