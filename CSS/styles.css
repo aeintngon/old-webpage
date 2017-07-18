@@ -25,6 +25,7 @@ a:hover {
 
 .post-content {
     margin-bottom: 15px;
+    padding-top:25px;
 }
 
 .post-date{
@@ -77,7 +78,7 @@ li a:hover {
 .content {
 	text-align:left;
 	padding:70px;
-	padding-top:15px;
+	padding-top:25px;
 }
 
 
