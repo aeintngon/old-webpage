@@ -14,28 +14,27 @@ li:before {
     color: blue; /* Or a color you prefer */
 }
 
-.footer-col-wrapper {
-    font-size: 15px;
-    color: #828282;
-    margin-left: -15px;
-}
-.footer-col {
-    float: left;
-    margin-bottom: 15px;
-    padding-left: 15px;
+.footer-nav {
+    display: flex;
+    justify-content: center;
 }
 
-.footer-col-1 {
-    width: -webkit-calc(35% - (30px / 2));
-    width: calc(35% - (30px / 2));
+#gmail {
+	color: #FF0101
 }
 
-.footer-col-2 {
-    width: -webkit-calc(20% - (30px / 2));
-    width: calc(20% - (30px / 2));
+#linkedin {
+	color: #007bb6
 }
 
-.footer-col-3 {
-    width: -webkit-calc(45% - (30px / 2));
-    width: calc(45% - (30px / 2));
+#twitter {
+	color: #00aced
+}
+
+#instagram {
+	color: #bc2a8d
+}
+
+#pdf {
+	color: #A735FD
 }
