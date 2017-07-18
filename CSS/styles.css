@@ -11,7 +11,6 @@ h1 {
 
 h2 {
 	font-sie: 24px;
-	font-weight: bold;
 	color: #76323F;	
 }
 
@@ -21,6 +20,13 @@ h2 {
 
 .post-date{
 	color:#FFFFFF;
+}
+
+#top-line {
+	color: #76323F
+	height: 2px;
+	border: 0;
+	margin: 0;
 }
 
 ul {
