@@ -64,6 +64,16 @@ li a:hover {
     background-color: #76323F;
 }
 
+.link {
+	color: #76323F;
+}
+
+.link:hover {
+	color:#C4BFC0;
+	text-decoration:none; 
+    cursor:pointer; 
+}
+
 .content {
 	text-align:left;
 	padding:70px;
