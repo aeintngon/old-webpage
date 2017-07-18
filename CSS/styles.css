@@ -1,5 +1,5 @@
 body {
-	background-color: #d7cec7;
+	background-color: #F4F4F4;
 	padding: 30px;
 }
 
@@ -38,20 +38,29 @@ a:hover {
 	margin: 0;
 }
 
-ul {
-    list-style: none; /* Remove list bullets */
-    padding: 0;
+.main-list {
+    list-style-type: none;
     margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #C4BFC0;
 }
 
-li { 
-    padding-left: 16px; 
+.main-list li {
+    float: left;
 }
 
-li:before {
-    content: ""; /* Insert content that looks like bullets */
-    padding-right: 8px;
-    color: blue; /* Or a color you prefer */
+.main-list li a {
+    display: block;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+.main-list li a:hover {
+    background-color: #76323F;
 }
 
 .content {
@@ -61,7 +70,7 @@ li:before {
 
 .footer {
 	text-align: center;
-	background: #c09F80;
+	background: #B0A9A9;
 	padding: 3px 0;
 	margin-top: 0px;
 }
