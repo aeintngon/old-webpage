@@ -1,5 +1,25 @@
+body {
+	background-color: #efefef;
+	padding: 16px;
+}
+
+h1 {
+	font-size: 36px;
+	font-weight:bold;
+	color:#CAEBF2;
+}
+
+.fa-twitter, .fa-envelope-o, .fa-linkedin, .fa-github{
+	font-size:18px;
+	color:#CAEBF2;
+}
+
 .post-content {
     margin-bottom: 30px;
+}
+
+.post-date{
+	color:#a9a9a9;
 }
 
 ul {
@@ -25,7 +45,7 @@ li:before {
 
 .footer {
 	text-align: center;
-	background: #C0F6FC;
+	background: #a9a9a9;
 	padding: 3px 0;
 	margin-top: 0px;
 }
