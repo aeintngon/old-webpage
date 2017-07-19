@@ -65,11 +65,11 @@ li a:hover {
 }
 
 .link {
-	color: #E9E9E9;
+	color: #4EB1BA;
 }
 
 .link:hover {
-	color:#4EB1BA;
+	color:#E9E9E9;
 	text-decoration:none; 
     cursor:pointer; 
 }
