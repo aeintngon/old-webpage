@@ -1,17 +1,17 @@
 body {
-	background-color: #F4F4F4;
+	background-color: #222930;
 	padding: 50px;
 }
 
 h1 {
 	font-size: 46px;
 	font-weight:bold;
-	color:#565656;
+	color:#E9E9E9;
 }
 
 h2 {
 	font-sie: 18px;
-	color: #76323F;	
+	color: #4EB1BA;	
 }
 
 a {
@@ -28,7 +28,7 @@ a:hover {
 }
 
 .post-date{
-	color:#54606B;
+	color:#FFFFF;
 }
 
 #top-line {
@@ -44,7 +44,6 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #C4BFC0;
 }
 
 li {
@@ -54,22 +53,22 @@ li {
 li a {
     display: block;
     font-weight: bold;
-    color: white;
+    color: #E9E9E9;
     text-align: center;
     padding: 16px;
     text-decoration: none;
 }
 
 li a:hover {
-    background-color: #76323F;
+    background-color: #4EB1BA;
 }
 
 .link {
-	color: #76323F;
+	color: #E9E9E9;
 }
 
 .link:hover {
-	color:#C4BFC0;
+	color:#4EB1BA;
 	text-decoration:none; 
     cursor:pointer; 
 }
@@ -83,7 +82,6 @@ li a:hover {
 
 .footer {
 	text-align: center;
-	background: #B0A9A9;
 	padding: 3px 0;
 	margin-top: 0px;
 }
