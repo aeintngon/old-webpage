@@ -68,7 +68,7 @@ li a:hover {
 }
 
 .link:hover {
-	color:#4EB1BA;
+	color:#B3D9DC;
 	text-decoration:none; 
     cursor:pointer; 
 }
@@ -76,6 +76,7 @@ li a:hover {
 .content {
 	text-align:left;
 	padding:70px;
+	color:#E9E9E9;
 }
 
 
