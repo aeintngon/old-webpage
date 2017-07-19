@@ -65,13 +65,13 @@ li a:hover {
 }
 
 .link {
-	color: #4EB1BA;
+	color: #A6E7ED;
 }
 
 .link:hover {
 	color:#E9E9E9;
 	text-decoration:none; 
-    cursor:pointer; 
+    	cursor:pointer; 
 }
 
 .content {
@@ -79,8 +79,6 @@ li a:hover {
 	padding:70px;
 	color:#E9E9E9;
 }
-
-
 
 .footer {
 	text-align: center;
