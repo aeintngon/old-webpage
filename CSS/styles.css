@@ -91,23 +91,24 @@ ul {
     text-decoration: none;
 }
 
-  .sidebar-nav .navbar .navbar-collapse {
+.sidebar-nav .navbar .navbar-collapse {
     padding: 0;
+    padding-bottom: 30;
     max-height: none;
     background-color: #222930;
   }
-  .sidebar-nav .navbar ul {
+.sidebar-nav .navbar ul {
     float: none;
   }
-  .sidebar-nav .navbar ul:not {
+.sidebar-nav .navbar ul:not {
     display: block;
   }
-  .sidebar-nav .navbar li {
+.sidebar-nav .navbar li {
     float: none;
     display: block;
     color:#E9E9E9;
   }
-  .sidebar-nav .navbar li a {
+.sidebar-nav .navbar li a {
     padding-top: 12px;
     padding-bottom: 12px;
   }
