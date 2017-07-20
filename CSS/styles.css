@@ -21,8 +21,14 @@ a:hover {
 	text-decoration:inherit;
 }
 
-aside {
-	color: #E9E9E9;
+.link {
+	color: #A6E7ED;
+}
+
+.link:hover {
+	color:#E9E9E9;
+	text-decoration:none; 
+    	cursor:pointer; 
 }
 
 .post-content {
@@ -112,16 +118,6 @@ ul {
     padding-top: 12px;
     padding-bottom: 12px;
   }
-}
-
-.link {
-	color: #A6E7ED;
-}
-
-.link:hover {
-	color:#E9E9E9;
-	text-decoration:none; 
-    	cursor:pointer; 
 }
 
 .content {
