@@ -4,13 +4,11 @@ body {
 }
 
 h1 {
-	font-size: 46px;
 	font-weight:bold;
 	color:#E9E9E9;
 }
 
 h2 {
-	font-sie: 18px;
 	color: #4EB1BA;	
 }
 
@@ -112,4 +110,18 @@ li a:hover {
 
 #github {
 	color: #000000
+}
+
+.graph-title {
+	font-weight:bold;
+	font-size:20px;
+	text-align:center;
+	margin: 0px;
+}
+
+.graph-subtitle {
+	text-align:center;
+	margin:0px;
+	font-size: 14px;
+	line-height:14px;
 }
