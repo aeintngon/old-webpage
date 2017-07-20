@@ -77,6 +77,13 @@ li a:hover {
 	color:#E9E9E9;
 }
 
+.project-title {
+	text-align:left;
+	padding:10px 70px 10px 70px;
+	color:#E9E9E9;
+	font-size:125%;
+}
+
 .footer {
 	text-align: center;
 	padding: 3px 0;
