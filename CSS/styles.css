@@ -21,8 +21,26 @@ a:hover {
 	text-decoration:inherit;
 }
 
+nav {
+    float: right;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em 3em 1em 1em;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+   
+nav ul a {
+    text-decoration: none;
+}
+
 .post-content {
 	color: #E9E9E9;
+	padding:10px 30px 10px 30px;
+	margin-right: 170px;
 }
 
 .post-date{
@@ -73,7 +91,7 @@ li a:hover {
 
 .content {
 	text-align:left;
-	padding:10px 70px 10px 70px;
+	padding:10px 30px 10px 30px;
 	color:#E9E9E9;
 }
 
