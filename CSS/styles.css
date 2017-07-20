@@ -94,6 +94,7 @@ ul {
   .sidebar-nav .navbar .navbar-collapse {
     padding: 0;
     max-height: none;
+    background-color: #222930;
   }
   .sidebar-nav .navbar ul {
     float: none;
@@ -104,6 +105,7 @@ ul {
   .sidebar-nav .navbar li {
     float: none;
     display: block;
+    color:#E9E9E9;
   }
   .sidebar-nav .navbar li a {
     padding-top: 12px;
