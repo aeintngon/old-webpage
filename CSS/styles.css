@@ -31,16 +31,6 @@ a:hover {
     	cursor:pointer; 
 }
 
-.links {
-	color: #A6E7ED;
-}
-
-.links:hover {
-	color:#E9E9E9;
-	text-decoration:none; 
-    	cursor:pointer; 
-}
-
 .post-content {
 	color: #E9E9E9;
 	padding:10px 30px 10px 30px;
@@ -86,6 +76,19 @@ ul {
     background-color: #4EB1BA;
 }
 
+.content {
+	text-align:left;
+	padding:10px 30px 10px 30px;
+	color:#E9E9E9;
+}
+
+.project-title {
+	text-align:left;
+	padding:10px 70px 10px 70px;
+	color:#E9E9E9;
+	font-size:125%;
+}
+
 .footer-nav {
     list-style: none;
     margin: 0;
@@ -110,37 +113,23 @@ ul {
     padding-bottom: 30px;
     max-height: none;
     background-color: #222930;
-  }
+}
 .sidebar-nav .navbar ul {
     float: none;
 	background-color: #222930;
-  }
+}
 .sidebar-nav .navbar ul:not {
     display: block;
 	background-color: #222930;
-  }
+}
 .sidebar-nav .navbar li {
     float: none;
     display: block;
     color:#E9E9E9;
-  }
+}
 .sidebar-nav .navbar li a {
     padding-top: 12px;
     padding-bottom: 12px;
-  }
-}
-
-.content {
-	text-align:left;
-	padding:10px 30px 10px 30px;
-	color:#E9E9E9;
-}
-
-.project-title {
-	text-align:left;
-	padding:10px 70px 10px 70px;
-	color:#E9E9E9;
-	font-size:125%;
 }
 
 .footer {
