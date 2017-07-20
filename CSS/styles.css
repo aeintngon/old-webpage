@@ -44,7 +44,7 @@ aside {
 }
 
 ul {
-	list-style: none;
+	list-style: 
 }
 
 .header-list {
@@ -70,6 +70,60 @@ ul {
 .header-list li a:hover {
     background-color: #4EB1BA;
 }
+
+.footer-nav {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.footer-nav li {
+    float: left;
+}
+
+.footer-nav li a {
+    display: block;
+    font-weight: bold;
+    color: #E9E9E9;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+.sidebar, .sidebar li{
+	text-align:left;
+	color:#E9E9E9;
+	font-weight: bold;
+	list-style-type:none;
+	line-height:auto;
+}
+
+.insidebar, .insidebar li, .connectbar, .connectbar li{
+	list-style-position: inside;
+	text-align:left;
+	font-weight: normal;
+	font-size: 14px;
+	line-height:auto;
+	list-style-type:circle;
+	}
+
+	.inbar, .insidebar li{
+	margin-bottom:30px;
+	}
+
+	.nav-stacked > li > a {
+	padding-top:10px; 
+    padding-bottom:10px;
+    height: 16px;
+    margin:0 0 0 -30px;
+	}
+
+	.insidebar li:hover, .connectbar li:hover{
+	color: #E9E9E9;
+	text-decoration:none; 
+    cursor:pointer; 
+	}
 
 .link {
 	color: #A6E7ED;
