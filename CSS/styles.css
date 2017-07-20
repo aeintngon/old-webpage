@@ -108,18 +108,18 @@ ul {
 	list-style-type:circle;
 	}
 
-	.inbar, .insidebar li{
+.inbar, .insidebar li{
 	margin-bottom:30px;
 	}
 
-	.nav-stacked > li > a {
+.nav-stacked > li > a {
 	padding-top:10px; 
     padding-bottom:10px;
     height: 16px;
     margin:0 0 0 -30px;
 	}
 
-	.insidebar li:hover, .connectbar li:hover{
+.insidebar li:hover, .connectbar li:hover{
 	color: #E9E9E9;
 	text-decoration:none; 
     cursor:pointer; 
