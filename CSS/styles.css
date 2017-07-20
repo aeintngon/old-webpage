@@ -43,18 +43,18 @@ aside {
 	margin-bottom: 12px;
 }
 
-ul {
+.header-list {
     list-style: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
 }
 
-li {
+.header-list li {
     float: left;
 }
 
-li a {
+.header-list li a {
     display: block;
     font-weight: bold;
     color: #E9E9E9;
@@ -63,7 +63,7 @@ li a {
     text-decoration: none;
 }
 
-li a:hover {
+.header-list li a:hover {
     background-color: #4EB1BA;
 }
 
