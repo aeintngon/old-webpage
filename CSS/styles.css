@@ -28,7 +28,6 @@ aside {
 .post-content {
 	color: #E9E9E9;
 	padding:10px 30px 10px 30px;
-	margin-right: 170px;
 }
 
 .post-date{
@@ -92,25 +91,28 @@ ul {
 }
 
 .sidebar-nav .navbar .navbar-collapse {
-    padding: 0;
-    padding-bottom: 30;
+    padding-bottom: 30px;
     max-height: none;
     background-color: #222930;
   }
 .sidebar-nav .navbar ul {
     float: none;
+	background-color: #222930;
   }
 .sidebar-nav .navbar ul:not {
     display: block;
+	background-color: #222930;
   }
 .sidebar-nav .navbar li {
     float: none;
     display: block;
+	background-color: #222930;
     color:#E9E9E9;
   }
 .sidebar-nav .navbar li a {
     padding-top: 12px;
     padding-bottom: 12px;
+	background-color: #222930;
   }
 }
 
