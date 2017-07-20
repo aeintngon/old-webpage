@@ -120,10 +120,17 @@ ul {
 	}
 
 .insidebar li:hover, .connectbar li:hover{
-	color: #E9E9E9;
+	color: #A6E7ED;
 	text-decoration:none; 
     cursor:pointer; 
 	}
+
+.col-sm-3{
+	position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
 
 .link {
 	color: #A6E7ED;
