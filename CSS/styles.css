@@ -48,6 +48,10 @@ a:hover {
 	margin-bottom: 12px;
 }
 
+.recent-project li{
+	margin-bottom:12px;
+}
+
 ul {
 	list-style: none;
 }
